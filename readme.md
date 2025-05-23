@@ -1,6 +1,6 @@
 The Dark and Flat FileZilla themes are using free icons from Font Awesome (https://github.com/FortAwesome/Font-Awesome?tab=readme-ov-file#license).
 
-![Screenshot](https://raw.githubusercontent.com/bhadaway/filezilla-themes/refs/heads/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/webguyio/filezilla-themes/refs/heads/main/screenshot.png)
 
 There aren't many FileZilla themes or resources on how to actually add or create your own custom FileZilla themes, so here are some...
 
@@ -30,7 +30,7 @@ There aren't many FileZilla themes or resources on how to actually add or create
 
 ## How can we improve?
 
-Let me know: https://github.com/bhadaway/filezilla-themes/issues
+Let me know: https://github.com/webguyio/filezilla-themes/issues
 
 From the icon sizing and padding to the icons themselves.
 
